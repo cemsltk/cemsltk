@@ -1,7 +1,7 @@
 <h1 align="center">I'm Cem Saltık</h1>
 <h3 align="center">I am a Computer Engineering student at Izmir University of Economics. I aim to specialize in Web Programming and Mobile Application Development, and I work towards this. While I am trying to improve myself on the Frontend side, I am also trying to learn Backend structures. I love working constantly and learning new things.</h3>
 
-- 🌱 I’m currently learning **C# **, **MSSQL and .NET**
+- 🌱 I’m currently learning **C#, .NET and MSSQL**
 
 - 📫 How to reach me **cemsltk35@gmail.com**
 
